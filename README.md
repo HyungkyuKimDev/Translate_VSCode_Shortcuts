@@ -1,8 +1,14 @@
-# 비주얼스튜디오 코드 맥용 단축키 한국어 번역
+# Language Select
+<div align="center">
+        <a href="https://github.com/HyungkyuKimDev/Translate_VSCode_Shortcuts/blob/main/JP_VSCODE_Shortcuts_Mac.md">
+        <img src="img/japan_flag.png" alt="Logo" width="80" height="80">
+    </a>
+        <a href="https://github.com/HyungkyuKimDev/Translate_VSCode_Shortcuts/blob/main/KR_VSCODE_Shortcuts_Mac.md">
+        <img src="img/korea_flag.png" alt="Logo" width="80" height="80">
+    </a>
+</div>
 
+# Visual Studio Code Language Select
 
-- [VSCode Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 한국어 번역 문서입니다.
-
-## 문서
-
-- [맥용 단축키](VSCODE_Shortcuts_Mac.md)
+- [JP VSCode Shortcuts](./JP_VSCODE_Shortcuts_Mac.md) 日本語の翻訳
+- [KR VSCode Shortcuts](./KR_VSCODE_Shortcuts_Mac.md) 한국어 번역 문서입니다.
